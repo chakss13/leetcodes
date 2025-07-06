@@ -1,1 +1,1 @@
-Just another Engineering student documenting his leetcode solutions
+Just another Engineer documenting his leetcode journey
